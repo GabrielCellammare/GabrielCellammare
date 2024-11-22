@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **GabrielCellammare/GabrielCellammare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,7 +21,7 @@ I am Gabriel Cellammare and I am passionate about cybersecurity, with a particul
 
 ## 🔭 Currently Working On
 * **Languages:** Python, Java, C
-* **Cyber Security:** Diving deep into cybersecurity practices to strengthen digital defense capabilities"
+* **Cyber Security:** Diving deep into cybersecurity practices to strengthen digital defense capabilities
 
 ## 📚 Curious to Explore
 * **IA - CyberSecurity:** Investigating of innovative uses of artificial intelligence in cybersecurity
