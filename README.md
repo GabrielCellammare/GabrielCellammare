@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # 👋 Hey, I'm @GabrielCellammare
 
 ## About Me
-👀 **Passionate about Coding**  
+👀 **Passionate about CyberSecurity**  
 I am Gabriel Cellammare and I am passionate about cybersecurity, with a particular interest in OSINT analysis, penetration testing and advanced research. My professional goal is to grow in this field, contributing to the development of innovative solutions to counter digital threats and ensure the integrity of data and infrastructures, including through security incident analysis.
 
 ## 🔭 Currently Working On
