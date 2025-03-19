@@ -25,5 +25,5 @@ I am Gabriel Cellammare and I am passionate about cybersecurity, with a particul
 
 ## 📚 Curious to Explore
 * **IA - CyberSecurity:** Investigating of innovative uses of artificial intelligence in cybersecurity
-* **Research - Cyber Security:** Focusing on core security competencies: ethical hacking, intelligence gathering (OSINT), and incident analysis"
+* **Research - Cyber Security:** Focusing on core security competencies: ethical hacking, intelligence gathering (OSINT), and incident analysis
 
